@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-04T07:37:05Z" name="Suite" finished-at="2021-01-04T07:37:13Z" duration-ms="7644">
+    <groups>
+    </groups>
+    <test started-at="2021-01-04T07:37:05Z" name="Test" finished-at="2021-01-04T07:37:13Z" duration-ms="7644">
+      <class name="com.scripts.facebook.TestSignup">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:com.scripts.facebook.TestSignup@78452606]" started-at="2021-01-04T07:36:56Z" name="openapp" finished-at="2021-01-04T07:37:05Z" duration-ms="9157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="facebook()[pri:0, instance:com.scripts.facebook.TestSignup@78452606]" started-at="2021-01-04T07:37:05Z" name="facebook" finished-at="2021-01-04T07:37:13Z" duration-ms="7593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.scripts.facebook.TestSignup@78452606]" started-at="2021-01-04T07:37:13Z" name="closeapp" finished-at="2021-01-04T07:37:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- com.scripts.facebook.TestSignup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
